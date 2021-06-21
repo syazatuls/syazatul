@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My calculator</string>
+    <string name="hyperLink">Can learn by click on<a href= "https://google.com"> my github</a></string>
+</resources>
